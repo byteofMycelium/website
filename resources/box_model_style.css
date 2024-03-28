@@ -1,0 +1,44 @@
+/*
+  white: #FFFFFF for body
+  accent color: blue #374A67
+  accent color: 73628A
+*/
+h1, h2, h3 {
+	color: #374A67;
+}
+h1 { 
+text-align: center;
+}
+
+th, td{
+	border: solid;
+	border-color: #73628A;
+	border-width: 2px;
+	border-collapse: collapse;
+	padding: 12px;
+}
+a {
+	color: #374A67;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.hover {
+	color: #73628A;
+}
+p.demonstration {
+	background-color: #374A67;
+	color: white;
+	width: 15px;
+	padding: 20px 20px 20px 20px;
+	border: solid;
+	margin: 15px 15px 15px 15px;
+}
+div {
+	background-color: #374A67; 
+	width: 646px;
+	padding: 20px 20px 20px 20px;
+	border: dotted; 
+	border-width: 20px;
+	border-color: #73628A;
+	margin: 20px 20px 20px 20px; 
+}
